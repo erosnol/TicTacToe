@@ -1,8 +1,9 @@
 
 # TicTacToe
 
-Project with javascript with help with YT tutorial from WebSimplified 
-https://tictactoe-eros.netlify.app
+Project with javascript with help with YT tutorial from WebSimplified (https://www.youtube.com/watch?v=Y-GkMjUZsmM)
+
+You can see DEMO at https://tictactoe-eros.netlify.app
 
 
 
