@@ -19,4 +19,4 @@ https://app.diagrams.net/#Herosnol%2FTicTacToe%2Fmain%2Ftictactoe.drawio
 Clone repo
 
 ## Hard problems to grasp
-Deconstructing :before :after on CSS, advacen CSS
+Deconstructing :before :after on CSS, advanced CSS
