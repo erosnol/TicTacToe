@@ -15,3 +15,8 @@ The game is played on a grid that's 3 squares by 3 squares.
 ## Wireframe
 https://app.diagrams.net/#Herosnol%2FTicTacToe%2Fmain%2Ftictactoe.drawio
  
+## Installation
+Clone repo
+
+## Hard problems to grasp
+Deconstructing :before :after on CSS, advacen CSS
